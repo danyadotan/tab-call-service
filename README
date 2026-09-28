@@ -1,0 +1,23 @@
+TAB@Work Customer Service Demo
+
+A Hebrew, right-to-left web demo of a customer-service representative screen in the TAB@Work product family. It uses a sample Nespresso support call to show how on-screen context and guidance could help a representative handle a machine issue and pass an escalating conversation to a shift manager.
+
+## What the demo shows
+
+- A representative view with a waiting-call queue, customer card, machine troubleshooting information, suggested wording, and escalation cues.
+- A shift-manager view with the escalation context, recent transcript, and controls that illustrate joining the call, guiding the representative, and marking follow-up.
+- A screen layout the representative can rearrange during the demo.
+
+These are illustrated workflows in a demo, not a live customer-service system or a claim of production integrations.
+
+## Run locally
+
+Open `index.html` in a browser, or serve the repository root with any static file server. The repository contains prebuilt JavaScript and CSS under `assets/`; there is no package install or build step for these files.
+
+## Deployment
+
+The static site is hosted on Vercel: https://tab-call-service.vercel.app/
+
+## License
+
+MIT. See [LICENSE](LICENSE).
